@@ -3,7 +3,7 @@ harp.io | @HarpPlatform
 
 This template has been modified to work with the [@HarpPlatform](http://twitter.com/HarpPlatform) and [@HarpWebServer](http://twitter.com/HarpWebServer), they contain partials and layouts so the code is easier to manage and dry. You can put this template online in seconds with the [Harp Platform](https://www.harp.io), or run it locally with the [Harp WebServer](http://harpjs.com).
 
-[View a live demo](http://miniport.harp.io) 
+[View a live demo](http://parallelism.harp.io) 
 
 This beautiful template is created by AJ at HTML5 UP, license and attribution is below.
 
