@@ -1,4 +1,4 @@
-Parallelism 1.0 by HTML5 UP, modified for Harp
+## Parallelism 1.0 by HTML5 UP, modified for Harp
 harp.io | @HarpPlatform
 
 This template has been modified to work with the [@HarpPlatform](http://twitter.com/HarpPlatform) and [@HarpWebServer](http://twitter.com/HarpWebServer), they contain partials and layouts so the code is easier to manage and dry. You can put this template online in seconds with the [Harp Platform](https://www.harp.io), or run it locally with the [Harp WebServer](http://harpjs.com).
